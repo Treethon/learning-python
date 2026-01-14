@@ -1,0 +1,8 @@
+print('Enter the width of the rectangle.')
+width = input('>')
+print('Enter the length of the rectangle.')
+length = input('>')
+area = int(width) * int(length)
+print('Area of the rectangle: ' + str(area))
+perimeter = (int(width) * 2) + (int(length) * 2)
+print('Perimeter of the rectangle: ' + str(perimeter))
