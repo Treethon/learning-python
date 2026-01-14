@@ -1,0 +1,219 @@
+(COMPLETED) Phase 0: Setup (1 evening — do not skip)
+
+Goal: Eliminate friction.
+
+Install Python 3.11+
+
+Install VS Code
+
+Install VS Code Python extension
+
+Learn only:
+
+How to run a .py file
+
+How to read terminal output
+
+Resource (do only this):
+
+VS Code Python Tutorial (official)
+→ Stop once you can run a file and see output
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Phase 1: Core Python (2–3 weeks)
+
+Goal: Internalize fundamentals without drowning.
+
+Primary Resource (do this, in order):
+
+📘 Book (free): Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/#toc
+
+Chapters 1–6 ONLY
+
+Ignore:
+
+Regex chapter
+
+Web scraping
+
+Excel/PDF/email automation
+
+👉 This book works because it explains why things work, not just syntax.
+
+How to use it (critical):
+
+Type all code yourself
+
+After each chapter, write one small script from scratch
+
+Do NOT read ahead
+
+Reinforcement (parallel, light use):
+
+🎥 CS50P – Introduction to Programming with Python
+
+Watch lectures 1–5 only
+
+Skip problem sets if you want; they’re optional
+
+Checkpoint to advance:
+You can write:
+
+A loop that processes a list
+
+A function that returns a value
+
+A script that reads input and prints output
+without copying examples.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Phase 2: The “Stuck Zone” Cure (4–6 weeks)
+
+This phase matters more than all others combined.
+
+Primary Resource:
+
+📘 Book: Python Crash Course (2nd Edition) by Eric Matthes
+
+Do ONLY:
+
+Part I (Basics)
+
+Skip classes chapter on first pass if needed
+
+This book is excellent at:
+
+Explaining errors
+
+Building intuition
+
+Avoiding abstract nonsense too early
+
+Mandatory Practice Resource:
+
+🧠 Exercism – Python Track
+
+Do Exercises 1–15
+
+Ignore mentor feedback initially
+
+Focus on finishing, not elegance
+
+Why Exercism works:
+
+Forces blank-page coding
+
+Problems are small
+
+You get stuck safely
+
+Debugging Skill (non-negotiable):
+
+🎥 “How to Debug Small Programs” – Corey Schafer (YouTube)
+Watch once. Rewatch when stuck.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Phase 3: One Direction Only (4 weeks)
+
+Pick ONE track. Do not hedge.
+
+Option A: Automation / Practical Scripting (most successful for repeat learners)
+
+Resources:
+
+Finish Automate the Boring Stuff:
+
+Files
+
+CSV
+
+Web requests
+
+Corey Schafer: “Python OS Module” & “Pathlib”
+
+Project (required):
+
+A script that:
+
+Reads files
+
+Transforms data
+
+Writes output
+
+Option B: Data Analysis
+
+Resources:
+
+Python for Data Analysis (Wes McKinney)
+
+Chapters 1–6 only
+
+Kaggle: “Python” micro-course
+
+Project:
+
+Load CSV
+
+Clean data
+
+Produce summary stats
+
+Option C: Web (Backend Only)
+
+Resources:
+
+Corey Schafer Flask Series (first 6 videos)
+
+Flask official “Quickstart”
+
+Project:
+
+One CRUD-style app
+
+No frontend frameworks
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Phase 4: Lock It In (Ongoing)
+
+Resource:
+
+“Effective Python” by Brett Slatkin (read slowly)
+
+Habit:
+
+Revisit old code
+
+Improve one thing
+
+Write comments explaining why
+
+What This Path Explicitly Avoids (on purpose)
+
+❌ LeetCode
+❌ “100 Days of Python”
+❌ Django
+❌ Advanced OOP
+❌ Async / threading
+❌ Watching without coding
+
+These derail repeat learners.
+
+Why This Has a Higher Success Rate
+
+Minimal choice → less cognitive fatigue
+
+Forces blank-page work early
+
+Delays abstraction until intuition exists
+
+Emphasizes finishing over brilliance
