@@ -30,6 +30,7 @@ Primary Resource (do this, in order):
 
 📘 Book (free): Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/#toc
+https://inventwithpython.com/automate3workbook/
 
 Chapters 1–6 ONLY
 
