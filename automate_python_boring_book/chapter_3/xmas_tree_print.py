@@ -1,6 +1,9 @@
+import random
+
 branch = '^'
 trunk = '#'
 space = ' '
+ornament = 'o'
 print('Enter the tree size.')
 size = int(input('>'))
 

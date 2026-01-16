@@ -1,5 +1,5 @@
 # learning-python
-1.16.26: Started phase 1 chapter 3 (workbook).  Left off on tree printer practice project.
+1.16.26: Started phase 1 chapter 3 (workbook).  Left off on xmas tree printer practice project.
 
 1.16.26: Completed phase 1 chapter 3 (book).
 
