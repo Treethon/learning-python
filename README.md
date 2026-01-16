@@ -1,4 +1,6 @@
 # learning-python
+1.15.26: Completed phase 1 chapter 2 (workbook).
+
 1.15.26: Completed phase 1 chapter 2 (book).
 
 1.13.26: Completed phase 1 chapter 1 (workbook).
