@@ -1,4 +1,6 @@
 # learning-python
+1.18.26: Started phase 1 chapter 5 (book).  Left off on logging section.
+
 1.17.26: Completed phase 1 chapter 3 (workbook).  Competed phase 1 chapter 4 (book).  Completed phase 1 chapter 4 (workbook).
 
 1.16.26: Completed phase 1 chapter 3 (book). Started phase 1 chapter 3 (workbook).  Left off on xmas tree printer practice project.
