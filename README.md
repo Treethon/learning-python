@@ -1,4 +1,6 @@
 # learning-python
+1.19.26: Completed phase 1 chapter 5 (workbook).
+
 1.18.26: Completed phase 1 chapter 5 (book).
 
 1.17.26: Completed phase 1 chapter 3 (workbook).  Competed phase 1 chapter 4 (book).  Completed phase 1 chapter 4 (workbook).

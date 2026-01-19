@@ -1,4 +1,6 @@
 def calculate_grade_average(grade_sum, number_of_grades):
+    if grade_sum == 0:
+        return 0
     grade_average = int(grade_sum / number_of_grades)
     return grade_average
 
