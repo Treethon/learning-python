@@ -1,5 +1,5 @@
 # learning-python
-1.18.26: Started phase 1 chapter 5 (book).  Left off on logging section.
+1.18.26: Completed phase 1 chapter 5 (book).
 
 1.17.26: Completed phase 1 chapter 3 (workbook).  Competed phase 1 chapter 4 (book).  Completed phase 1 chapter 4 (workbook).
 
