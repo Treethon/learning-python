@@ -1,4 +1,8 @@
 # learning-python
+1.21.26: Started chapter 7 (book).  Left off on Model Real-World Things Using Data Structures section.
+
+1.20.26: Completed phase 1 chapter 6 (workbook).  Skipping cs50p for now and continuing on to chapter 7 (book).
+
 1.19.26: Completed phase 1 chapter 5 (workbook).  Completed phase 1 chapter 6 (book).
 
 1.18.26: Completed phase 1 chapter 5 (book).

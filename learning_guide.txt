@@ -1,3 +1,6 @@
+Random github of lots of python books (free)
+https://github.com/Aayushjoshi28/Books-to-Learn-Hacking/tree/master
+
 (COMPLETED) Phase 0: Setup (1 evening — do not skip)
 
 Goal: Eliminate friction.
@@ -55,6 +58,7 @@ Do NOT read ahead
 Reinforcement (parallel, light use):
 
 🎥 CS50P – Introduction to Programming with Python
+https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V
 
 Watch lectures 1–5 only
 
@@ -80,6 +84,7 @@ This phase matters more than all others combined.
 Primary Resource:
 
 📘 Book: Python Crash Course (2nd Edition) by Eric Matthes
+Located on my desktop
 
 Do ONLY:
 
