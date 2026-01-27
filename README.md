@@ -1,4 +1,6 @@
 # learning-python
+1.26.26: Resumed chapter 7 (book).  Left off on practice programs.
+
 1.24.26: Began calorie counter personal project.
 
 1.21.26: Started chapter 7 (book).  Left off on Model Real-World Things Using Data Structures section.
