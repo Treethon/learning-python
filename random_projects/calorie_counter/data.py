@@ -1,7 +1,8 @@
 caloric_items = {
 "item": "dunkin_cold_brew_black", "calories": 5,
 "item": "dunkin_iced_butter_pecan", "calories": 200,
-"item": "home_coca_cola_zero_can", "calories": 0,
+"item": "nino_pork_chop", "calories": 400,
+"item": "coca_cola_zero_can", "calories": 0,
 }
 
 

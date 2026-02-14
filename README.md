@@ -1,4 +1,6 @@
 # learning-python
+2.14.26: Started chapter 8 (book).  Left off on practice program.
+
 1.26.26: Resumed chapter 7 (book).  Left off on practice programs.
 
 1.24.26: Began calorie counter personal project.

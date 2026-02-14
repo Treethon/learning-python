@@ -56,6 +56,21 @@ def print_chessboard(board):
 
     print(BOARD_TEMPLATE.format(*squares))
 
+def isValidChessBoard(main_board):
+    '''
+    1 black king/queen, 1 white king/queen
+    each 2 knights, 2 bishops, 2 rooks, 8 pawns
+    on board from 1a to 8h
+    '''
+    valid_rows = '12345678'
+    valid_columns = 'abcdefgh'
+    num_pawns = 8
+    num_rooks = 2
+    num_bishops = 2
+    num_knights = 2
+    player_1 = 'w'
+    player_2 = 'b'
+
 print('Interactive Chessboard')
 print('by Al Sweigart al@inventwithpython.com')
 print()
