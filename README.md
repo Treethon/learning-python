@@ -1,4 +1,6 @@
 # learning-python
+2.16.26: Started learning HTML/CSS/Javascript on https://www.freecodecamp.org/ (signed in via github).
+
 2.14.26: Started chapter 8 (book).  Left off on practice program.
 
 1.26.26: Resumed chapter 7 (book).  Left off on practice programs.
