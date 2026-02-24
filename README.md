@@ -1,4 +1,6 @@
 # learning-python
+2.23.26: Started watching CS50x 2026 - Lecture 0 - Scratch (watched 1 hour of video).
+
 2.16.26: Started learning HTML/CSS/Javascript on https://www.freecodecamp.org/ (signed in via github).
 
 2.14.26: Started chapter 8 (book).  Left off on practice program.
