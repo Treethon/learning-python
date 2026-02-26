@@ -1,4 +1,6 @@
 # learning-python
+2.24.26: Finished CS50x 2026 lecture 0.  Finished CS50P lecture 0.  Started lecture 1. See:https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home Began work on problem set 0 (https://cs50.harvard.edu/python/psets/0/)
+
 2.23.26: Started watching CS50x 2026 - Lecture 0 - Scratch (watched 1 hour of video).
 
 2.16.26: Started learning HTML/CSS/Javascript on https://www.freecodecamp.org/ (signed in via github).
