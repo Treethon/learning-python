@@ -1,4 +1,6 @@
 # learning-python
+3.10.26: Started 30 days of python, completed days 1 and 2.  Did a small API test as well.
+
 2.26.26: Finished problem set 0.
 
 2.24.26: Finished CS50x 2026 lecture 0.  Finished CS50P lecture 0.  Started lecture 1. See:https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home Began work on problem set 0 (https://cs50.harvard.edu/python/psets/0/)
