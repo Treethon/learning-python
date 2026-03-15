@@ -1,5 +1,7 @@
 import requests, json, os, dotenv
 
+# API documentation: https://newsapi.org/docs/endpoints/top-headlines
+
 dotenv.load_dotenv()
 api_key = os.getenv("NEWSAPI_KEY")
 
