@@ -1,4 +1,6 @@
 # learning-python
+3.15.26: Functional small API test using newsapi.
+
 3.10.26: Started 30 days of python, completed days 1 and 2.  Did a small API test as well.
 
 2.26.26: Finished problem set 0.
